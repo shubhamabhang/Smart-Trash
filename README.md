@@ -37,7 +37,3 @@ This project utilizes sensor-based datasets containing:
 The system identifies "Active Bins" (Fill Level > 80%) and calculates the shortest mathematical path between them. It then calculates the **Carbon Impact** using the formula:
 $$Saved\ CO_2 = (Baseline\ Distance - Optimized\ Distance) \times Emission\ Factor$$
 
-## 🚀 Getting Started
-1. **Clone the Repo:**
-   ```bash
-   git clone [https://github.com/YourUsername/Smart-Trash-Carbon-Reduction.git](https://github.com/YourUsername/Smart-Trash-Carbon-Reduction.git)
